@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tts"
+        android:icon="@drawable/ic_baseline_volume_up_24"
+        android:title="Sóz -> dawıs" />
+
+    <item
+        android:id="@+id/favourites"
+        android:icon="@drawable/ic_bookmark_select"
+        android:title="Saylanǵanlar" />
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="Bólisiw" />
+
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/ic_baseline_star_rate_24"
+        android:title="Bahalaw" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="Haqqında" />
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="Shıǵıw" />
+
+</menu>

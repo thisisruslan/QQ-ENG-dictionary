@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QQ-ENG\nsózlik</string>
+    <string name="ruslan_jumatov"><u>ruslan_jumatov</u></string>
+    <string name="speech_prompt">Inglisshe sózdi aytıń&#8230;</string>
+    <string name="speech_not_supported">Keshirersiz, siziń telefonıńız ushın bul funkcionallıq islemeydi</string>
+    <string name="tap_on_mic">Sóylew ushın mikrofondı basıń</string>
+    <string name="aboutText">   Bul qaraqalpaqsha - inglisshe sózlik baǵdarlaması bolıp, ol óz ishine 8000 ǵa jaqın sózdı óz ishine aladı. Bul android platformasında isleytuǵin qosımsha bolıp, Ruslan Jumatov tárepinen islep shıǵıldı. Egerde sizde usınıslar bolsa yáki qosımshada qandayda bir qáteliklerdi anıqlaǵan bolsańiz, avtor menen baylanısıwızdı sorap qalaman.
+
+    </string>
+</resources>
